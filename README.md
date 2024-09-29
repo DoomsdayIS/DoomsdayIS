@@ -10,7 +10,7 @@
 - Летом 2023 стажировался как python разработчик в ООО "Яндекс.Технологии" в команде занимающейся разработкой инструментов для A/B-тестов. Создал систему автоматического сэмплирования логов, интегрировал сэмплированные логи в CI-action.
 - Сейчас учусь на последнем курсе, пишу пет-проекты и скраперы для аналитики и бизнеса. [Пример](https://github.com/DoomsdayIS/ReelsParse)
 
-📄 [My Resume](https://github.com/DoomsdayIS/Resume/blob/main/Ivan%20Sheremet%2C%20Python%20Backend%20Developer.pdf)
+📄 [My Resume](https://github.com/DoomsdayIS/DoomsdayIS/blob/main/Sheremet_Python_Backend_Developer.pdf)
 
 ## 💻 Tech Stack:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=doomsdayIS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) \
