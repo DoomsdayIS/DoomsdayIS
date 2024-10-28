@@ -8,8 +8,9 @@
 - Second university track - "Methods of data analysis"
 - Regional champion on sports programming in high school
 
-📄 [My Resume (ru)](https://github.com/DoomsdayIS/DoomsdayIS/blob/main/Resume_rus.pdf)
-📄 [My Resume (eng)](https://github.com/DoomsdayIS/DoomsdayIS/blob/main/Resume_eng.pdf)
+📄 Resume: 
+  - [Ru](https://github.com/DoomsdayIS/DoomsdayIS/blob/main/Resume_rus.pdf)
+  - [Eng](https://github.com/DoomsdayIS/DoomsdayIS/blob/main/Resume_eng.pdf)
 
 ## 💻 Tech Stack:
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=doomsdayIS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#) \
