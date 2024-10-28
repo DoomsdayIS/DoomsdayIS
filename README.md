@@ -7,9 +7,9 @@
 - ITMO Senior year Bachelor of Computer Science
 - Second university track - "Methods of data analysis"
 - Regional champion on sports programming in high school
-- Currently working as a freelance Python developer. My pet projects: [BitcoinExchangeRateMonitoring](https://github.com/DoomsdayIS/BitcoinExchangeRateMonitoring) [YoutubeShort//InstagramReels viewcounter](https://github.com/DoomsdayIS/ReelsParse)
 
-📄 [My Resume](https://github.com/DoomsdayIS/DoomsdayIS/blob/main/Sheremet_Python_Backend_Developer.pdf)
+📄 [My Resume (ru)](https://github.com/DoomsdayIS/DoomsdayIS/blob/main/Resume_rus.pdf)
+📄 [My Resume (eng)](https://github.com/DoomsdayIS/DoomsdayIS/blob/main/Resume_eng.pdf)
 
 ## 💻 Tech Stack:
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=doomsdayIS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#) \
