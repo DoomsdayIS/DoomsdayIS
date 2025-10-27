@@ -1,12 +1,6 @@
 <h1 align="center">Ivan Sheremet</h1>
 <h3 align="center">Python backend developer</h3>
 
-## 💫 About Me:
-- Yandex Python intern dev may 2023 - october 2023
-- Tinkoff Programmer Analyst may 2021 - march 2022
-- ITMO Senior year Bachelor of Computer Science
-- Second university track - "Methods of data analysis"
-- Regional champion on sports programming in high school
 
 📄 Resume: 
   - [Ru](https://github.com/DoomsdayIS/DoomsdayIS/blob/main/Resume_rus.pdf)
